@@ -1,10 +1,9 @@
-header 
-   {
-     background: #97a021;
-     color: #140a1b;
-     font-family: sans-ser;
-     text-align-last: center;
-    }
+header {
+  background: #97a021;
+  color: #140a1b;
+  font-family: sans-ser;
+  text-align-last: center;
+}
 
 .header-detailer {
   margin-top: 0;
@@ -15,38 +14,38 @@ header
 
 ul {
 
-     list-style-type: none;
-     margin: 0;
-     padding: 0;
-     overflow: hidden;
-     background-color: #97a021;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #97a021;
 
-     
-   }
 
- ol{
-     float: left;
-     display: block;
-     color: #0c0000;
-     text-align: center;
-     padding: 1,7rem 1,7rem;
-     text-decoration: none;
-   }
+}
+
+ol {
+  float: left;
+  display: block;
+  color: #0c0000;
+  text-align: center;
+  padding: 1, 7rem 1, 7rem;
+  text-decoration: none;
+}
+
 ol a:hover {
-     background: #97a021;
-  }
-    
+  background: #97a021;
+}
 
- .forstatitel {
-     color : #a52a2a;
-              }
 
- .andratitel {
-     color: #da1414;
-             }
+.forstatitel {
+  color: #a52a2a;
+}
 
- footer {
-      text-align: center;
-      margin: 2cm;
-       }
-    
+.andratitel {
+  color: #da1414;
+}
+
+footer {
+  text-align: center;
+  margin: 2cm;
+}

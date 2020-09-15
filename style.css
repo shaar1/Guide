@@ -1,4 +1,6 @@
 header {
+  border-top: 3px solid brown;
+  margin: 3px 3px 3px 3px;
   background: #97a021;
   color: #140a1b;
   font-family: sans-ser;
@@ -10,26 +12,29 @@ header {
   margin-bottom: 0;
 }
 
-
+nav {
+  text-align: center;
+}
 
 ul {
-
+  width: 100%;
   list-style-type: none;
-  margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: #97a021;
-
-
+  display: block;
 }
 
 ol {
-  float: left;
-  display: block;
+  display: inline;
   color: #0c0000;
   text-align: center;
   padding: 1, 7rem 1, 7rem;
   text-decoration: none;
+}
+
+a {
+  color: #0c0000;
 }
 
 ol a:hover {

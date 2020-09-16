@@ -25,7 +25,7 @@ ul {
   display: block;
 }
 
-ol {
+li {
   display: inline;
   color: #0c0000;
   text-align: center;
@@ -37,7 +37,7 @@ a {
   color: #0c0000;
 }
 
-ol a:hover {
+li a:hover {
   background: #97a021;
 }
 

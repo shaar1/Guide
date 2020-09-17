@@ -2,7 +2,7 @@ header {
   padding: 10px;
   border-top: 5px solid rgb(168, 1, 1);
   margin: 5px 5px 5px 5px;
-  background: #faf9f8;
+  background: #e7e5e0;
   color: #0d0c0e;
   font-family: sans-ser;
   font-size: 1rem;
@@ -24,7 +24,7 @@ ul {
   list-style-type: none;
   padding: 0;
   overflow: hidden;
-  background-color: #d1c4c4;
+  background: #e7e5e0;
   display: block;
 }
 
@@ -46,11 +46,11 @@ li a:hover {
 
 
 .forstatitel {
-  color: #a52a2a;
+  color: #0f0505;
 }
 
 .andratitel {
-  color: #da1414;
+  color: #0f0505;
 }
 
 footer {
